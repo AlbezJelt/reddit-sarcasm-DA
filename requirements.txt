@@ -1,0 +1,25 @@
+setuptools
+wheel
+tensorflow-hub
+tensorflow-text
+tf-models-official
+matplotlib
+ipympl
+click==7.1.1
+nltk
+pandas
+scikit-learn==0.23.2
+gensim
+cython
+python-levenshtein
+keras
+pydot
+graphviz
+pydotplus
+pyspellchecker
+spacy[cuda112]
+Exit
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0-py3-none-any.whl
+thundersvm
+xgboost
+scikit-optimize

@@ -1,0 +1,3 @@
+Model,score
+xgboost,0.6790801671794957
+naive_bayes,0.6935497194979117

@@ -144,3 +144,4 @@ data/*.tsv
 .history
 .ionide
 .vscode/settings.json
+.vscode/launch.json
